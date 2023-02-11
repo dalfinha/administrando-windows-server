@@ -1,5 +1,5 @@
-# Powershell-for-WServer - Observações e Dicas
-> Alguns scripts em PowerShell que criei para administração de algumas tools dedicadas do Windows Server.
+# Observações e Dicas
+> Alguns scripts em PowerShell que criei para administração dedicada no Windows Server.
 ## Schedule + SMB 
 ###### Ambiente utilizado: Windows Server 2019 Base - Padrão AWS - Disco de 30gb. <br>
 
